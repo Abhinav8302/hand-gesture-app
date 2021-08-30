@@ -1,0 +1,18 @@
+body{
+    color: white;
+    background: pink;
+}
+
+.Heading{
+ width: 80%;
+ font-size: 22px;
+
+}
+#result_image_name,#result_image_accuracy,.name_of_images{
+color: royalblue;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
